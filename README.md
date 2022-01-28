@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 Here are my github stats! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balkisdirahoui&show_icons=true&theme=radical)
+![Balkis's GitHub stats](https://github-readme-stats.vercel.app/api?username=balkisdirahoui&show_icons=true&theme=radical)
