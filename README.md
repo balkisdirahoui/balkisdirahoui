@@ -21,5 +21,5 @@ Hello there!
 
 
 
-[![Balkis's GitHub stats](https://github-readme-stats.vercel.app/api?username=balkisdirahoui&show_icons=true&theme=tokyonight)](https://github.com/balkisdirahoui/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balkisdirahoui&layout=compact&theme=tokyonight)](https://github.com/balkisdirahoui/github-readme-stats)
+[![Balkis's GitHub stats](https://github-readme-stats.vercel.app/api?username=balkisdirahoui&show_icons=true&theme=radical)](https://github.com/balkisdirahoui/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balkisdirahoui&layout=compact&theme=radical)](https://github.com/balkisdirahoui/github-readme-stats)
